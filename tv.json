@@ -21,7 +21,7 @@
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
-        },
+        },       
         {
             "name": "线路3",
             "type": 0,
@@ -35,7 +35,7 @@
         {
             "name": "线路4",
             "type": 0,
-            "url": "./ipv4.m3u",
+            "url": "./itv.m3u",
             "playerType": 3,
             "ua": "okhttp/3.15",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
@@ -44,6 +44,16 @@
         },
         {
             "name": "线路5",
+            "type": 0,
+            "url": "./ipv4.m3u",
+            "playerType": 3,
+            "ua": "okhttp/3.15",
+            "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
+            "timeout": 10
+        },
+        {
+            "name": "线路6",
             "type": 0,
             "url": "./ipv6.m3u",
             "playerType": 3,
