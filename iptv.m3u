@@ -75,7 +75,7 @@ http://sub.mtoo.vip:8333/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangxi.png" group-title="卫视",广西卫视
 http://sub.mtoo.vip:8333/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Yunnan.png" group-title="卫视",云南卫视
-http://1.196.152.23:2011/rtp/239.16.10.19:2000
+http://sub.mtoo.vip:8333/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guizhou.png" group-title="卫视",贵州卫视
 http://sub.mtoo.vip:8333/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sichuan.png" group-title="卫视",四川卫视
@@ -87,17 +87,17 @@ http://110.177.144.19:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Gansu.png" group-title="卫视",甘肃卫视
 http://sub.mtoo.vip:8333/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Qinghai.png" group-title="卫视",青海卫视
-http://1.196.152.163:2012/rtp/239.16.10.107:2000
+http://phmanet.com:9999/udp/239.76.254.132:9000
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi.png" group-title="卫视",陕西卫视
- http://1.196.152.23:2011/rtp/239.16.10.17:2000
+ http://phmanet.com:9999/udp/239.76.254.76:9000
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Ningxia.png" group-title="卫视",宁夏卫视
 http://sub.mtoo.vip:8333/udp/239.77.0.49:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hainan.png" group-title="卫视",海南卫视
-http://www.kaniptv.cn/mk.php?ip=122.136.124.241:8014&id=hainanws
+http://phmanet.com:9999/udp/239.76.253.203:9000
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Haixia.png" group-title="卫视",海峡卫视
-https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
+http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sansha.png" group-title="卫视",三沙卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1524
+https://srs.ssws.tv/video/sstv-10/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Bingtuan.png" group-title="卫视",兵团卫视
 http://sub.mtoo.vip:8333/udp/239.77.0.48:5146
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
@@ -117,13 +117,13 @@ https://stream1.freetv.fun/2781873676a15afc1a4f4f5506557e66ed04c560f836f62265427
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/ymkt.png" group-title="动漫",优漫卡通
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/dmxc.png" group-title="动漫",动漫秀场
-https://stream1.freetv.fun/01338fd08b1718f396da23e41d0f2ac8781b971adb8fb69e48b9f365f2f68470.m3u8
+http://phmanet.com:9999/udp/239.76.253.131:9000
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC影迷电影.png" group-title="电影",CHC影迷电影
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1807
+http://127.0.0.1:9978/m3u8?url=http%3A%2F%2F110.72.78.78%3A8181%2Ftsfile%2Flive%2F1080_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC动作电影.png" group-title="电影",CHC动作电影
-http://171.113.235.9:12345/rtp/239.69.1.242:11094
+http://127.0.0.1:9978/m3u8?url=http%3A%2F%2F110.72.78.78%3A8181%2Ftsfile%2Flive%2F1079_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1189
+http://127.0.0.1:9978/m3u8?url=http%3A%2F%2F110.72.78.78%3A8181%2Ftsfile%2Flive%2F1078_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
 http://vencentnas.com:7088/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
@@ -153,9 +153,9 @@ https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京卫视4K.png" group-title="4k",北京卫视4k
 https://migu.188766.xyz/?migutoken=121ac9300c69f70343be33919274980c&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/湖南卫视4K.png" group-title="4k",湖南卫视4k
-https://migu.188766.xyz/?migutoken=dbfd82dfdea0fbc5842a2ffb9cd031ec&id=hn4k&type=sz
+http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fhlsal-ldvt.qing.mgtv.com%2Fnn_live%2Fnn_x64%2FdWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi%2FHNWSZGST.m3u8%3F.4k
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/浙江卫视4K.png" group-title="4k",浙江卫视4k
-https://migu.188766.xyz/?migutoken=6032eef505d529f387d90c16b7bad02b&id=zj4k&type=sz
+http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fplay-qukan.cztv.com%2Flive%2F1758879019692345.m3u8%3F.4k
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/江苏卫视4K.png" group-title="4k",江苏卫视4k
 https://migu.188766.xyz/?migutoken=ba6d07311f798241b03849a419bb6afe&id=js4k&type=sz
 #EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东方卫视4K.png" group-title="4k",东方卫视4k
