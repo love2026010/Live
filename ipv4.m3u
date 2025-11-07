@@ -107,7 +107,7 @@ http://iptv.huuc.edu.cn/hls/xjhd.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xizang.png" group-title="卫视",西藏卫视
 http://iptv.huuc.edu.cn/hls/xzhd.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jykt.png" group-title="动漫",金鹰卡通
-http://iptv.huuc.edu.cn/hls/jykthd.m3u8
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jjkt.png" group-title="动漫",嘉佳卡通
 http://tvtj.jxwltx.com:8003/jjkt.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hhxd.png" group-title="动漫",哈哈炫动
@@ -127,15 +127,17 @@ http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
 http://vencentnas.com:7088/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+http://gotv.k.vu/api.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙祥时代.png" group-title="电影",龙祥时代
-http://free.cnlive.club/channel/78976a30/index.m3u8?q=223.153.185.128
+http://gotv.k.vu/api.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东森电影.png" group-title="电影",东森电影
-http://free.cnlive.club/channel/7cb9a434/index.m3u8?q=106.16.172.62
+http://gotv.k.vu/api.php?id=ettvmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/纬来电影台.png" group-title="电影",纬来电影
-http://free.cnlive.club/channel/n662e0c33/index.m3u8?q=175.2.39.118
+http://gotv.k.vu/api.php?id=videolandmovie
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/好莱坞电影.png" group-title="电影",好莱坞电影
-http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=240e:469:a405:795d::1
+http://gotv.k.vu/api.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/天映频道.png" group-title="电影",天映频道
+http://gotv.k.vu/api.php?id=Celestial
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
