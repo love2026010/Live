@@ -57,7 +57,7 @@ http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=jlws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
 http://110.177.144.19:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangdong.png" group-title="卫视",广东卫视
-https://stream1.freetv.fun/34341bb0916388c765eaf73e98d63a8d82bb28f5f4f0501c19d89a31c7396f09.ctv
+https://stream1.freetv.fun/a422735814eb7df091d0cdb1f9c97152ffc83b7575271872ebbdd2e455926999.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shenzhen.png" group-title="卫视",深圳卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=szws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Henan.png" group-title="卫视",河南卫视
