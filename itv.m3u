@@ -120,11 +120,11 @@ http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeD
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/dmxc.png" group-title="动漫",动漫秀场
 http://shyd.695847.xyz/cms001/ch00000090990000001196/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC影迷电影.png" group-title="电影",CHC影迷电影
-http://115.58.217.186:4000/rtp/225.1.4.207:1260
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC动作电影.png" group-title="电影",CHC动作电影
-http://115.58.217.186:4000/rtp/225.1.4.208:1261
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
-http://115.58.217.186:4000/rtp/225.1.4.209:1262
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
 http://vencentnas.com:7088/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
