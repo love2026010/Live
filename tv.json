@@ -7,7 +7,7 @@
             "type": 0,
             "url": "./tv.txt",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
@@ -17,7 +17,7 @@
             "type": 0,
             "url": "./tv.m3u",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
@@ -27,7 +27,7 @@
             "type": 0,
             "url": "./iptv.m3u",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
@@ -37,7 +37,7 @@
             "type": 0,
             "url": "./itv.m3u",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
@@ -47,7 +47,7 @@
             "type": 0,
             "url": "./ipv4.m3u",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
@@ -57,7 +57,7 @@
             "type": 0,
             "url": "./ipv6.m3u",
             "playerType": 3,
-            "ua": "okhttp/3.15",
+            "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/{name}.png",
             "timeout": 10
