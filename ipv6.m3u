@@ -1,147 +1,195 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV1.png" group-title="央视",CCTV-1
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv1
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV2.png" group-title="央视",CCTV-2
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv2
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226893/1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV3.png" group-title="央视",CCTV-3
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv3
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV4.png" group-title="央视",CCTV-4
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv4
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5.png" group-title="央视",CCTV-5
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv5
-http://110.177.144.19:9003/hls/5/index.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5+.png" group-title="央视",CCTV-5+
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1675
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV6.png" group-title="央视",CCTV-6
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv6
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV7.png" group-title="央视",CCTV-7
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv7
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV8.png" group-title="央视",CCTV-8
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV9.png" group-title="央视",CCTV-9
-http://175.9.161.73:8989/udp/239.76.246.159:1234
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv9
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV10.png" group-title="央视",CCTV-10
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv10
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226937/1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV11.png" group-title="央视",CCTV-11
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv11
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV12.png" group-title="央视",CCTV-12
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv12
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV13.png" group-title="央视",CCTV-13
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv13
-http://110.42.63.57:158/live/ysp.php?id=cctv13
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV14.png" group-title="央视",CCTV-14
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv14
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV15.png" group-title="央视",CCTV-15
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv15
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV16.png" group-title="央视",CCTV-16
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=cctv16
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227002/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV17.png" group-title="央视",CCTV-17
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1032
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Beijing.png" group-title="卫视",北京卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1300
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hunan.png" group-title="卫视",湖南卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1270
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Zhejiang.png" group-title="卫视",浙江卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1290
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangsu.png" group-title="卫视",江苏卫视
-https://stream1.freetv.fun/0135da5c7044214df0a494aafde08fc2fa5787c20c391fc76bdce2321417d4a1.m3u8
-http://110.42.63.57:158/live/ysp.php?id=江苏卫视
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongfang.png" group-title="卫视",东方卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1310
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Tianjin.png" group-title="卫视",天津卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1320
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226246/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shandong.png" group-title="卫视",山东卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1340
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Liaoning.png" group-title="卫视",辽宁卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1554
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jilin.png" group-title="卫视",吉林卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1544
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227015/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1564
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226965/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangdong.png" group-title="卫视",广东卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1410
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226238/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shenzhen.png" group-title="卫视",深圳卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1330
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226959/1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Henan.png" group-title="卫视",河南卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1096
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226525/1.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangxi.png" group-title="卫视",江西卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1360
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hubei.png" group-title="卫视",湖北卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1280
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226952/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Anhui.png" group-title="卫视",安徽卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1350
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hebei.png" group-title="卫视",河北卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1441
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227014/1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongnan.png" group-title="卫视",东南卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1400
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226991/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangxi.png" group-title="卫视",广西卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1420
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227010/1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Yunnan.png" group-title="卫视",云南卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1380
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227028/1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guizhou.png" group-title="卫视",贵州卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1390
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227012/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sichuan.png" group-title="卫视",四川卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1370
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226995/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Chongqing.png" group-title="卫视",重庆卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1430
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226963/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi_.png" group-title="卫视",山西卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1451
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227016/1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Gansu.png" group-title="卫视",甘肃卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1471
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227020/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Qinghai.png" group-title="卫视",青海卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1491
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227017/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi.png" group-title="卫视",陕西卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1461
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226999/1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Ningxia.png" group-title="卫视",宁夏卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1481
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227003/1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hainan.png" group-title="卫视",海南卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1514
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227029/1.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Haixia.png" group-title="卫视",海峡卫视
-https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1035
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sansha.png" group-title="卫视",三沙卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1524
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Bingtuan.png" group-title="卫视",兵团卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1665
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1534
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227018/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xinjiang.png" group-title="卫视",新疆卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1574
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227011/1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xizang.png" group-title="卫视",西藏卫视
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1604
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227033/1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jykt.png" group-title="动漫",金鹰卡通
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1220
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226576/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jjkt.png" group-title="动漫",嘉佳卡通
-https://stream1.freetv.fun/c35e7322dda3b1dad2e328269a875ee5a916dc42ea2abf9dedac1d7743c18f42.ctv
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hhxd.png" group-title="动漫",哈哈炫动
 http://cdn.jdshipin.com/kkxw.php?id=9
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/kakushaoer.png" group-title="动漫",卡酷少儿
-https://stream1.freetv.fun/2781873676a15afc1a4f4f5506557e66ed04c560f836f622654270de6c4c31c9.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226511/1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/ymkt.png" group-title="动漫",优漫卡通
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226932/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/dmxc.png" group-title="动漫",动漫秀场
 https://stream1.freetv.fun/01338fd08b1718f396da23e41d0f2ac8781b971adb8fb69e48b9f365f2f68470.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hmdh.png" group-title="动漫",黑莓动画
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226935/1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC影迷电影.png" group-title="电影",CHC影迷电影
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1807
+http://60.16.0.216:5757/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC动作电影.png" group-title="电影",CHC动作电影
 http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1199
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1189
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
-http://vencentnas.com:7088/rtp/239.3.1.250:8001
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hmdy.png" group-title="电影",黑莓电影
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226939/1.m3u8
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙祥时代.png" group-title="电影",龙祥时代
-http://free.cnlive.club/channel/78976a30/index.m3u8?q=223.153.185.128
+https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东森电影.png" group-title="电影",东森电影
-http://free.cnlive.club/channel/7cb9a434/index.m3u8?q=106.16.172.62
+https://tzh911.qzz.io/play-smt.php?id=ettvmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/纬来电影台.png" group-title="电影",纬来电影
-http://free.cnlive.club/channel/n662e0c33/index.m3u8?q=175.2.39.118
+https://tzh911.qzz.io/play-smt.php?id=videolandmovie
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/好莱坞电影.png" group-title="电影",好莱坞电影
-http://free.cnlive.club/channel/117d8eeb/index.m3u8?q=240e:469:a405:795d::1
+https://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/天映频道.png" group-title="电影",天映频道
+https://tzh911.qzz.io/play-smt.php?id=Celestial
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/超级体育.png" group-title="NewTV",超级体育
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/超级电影.png" group-title="NewTV",超级电影
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/超级电视剧.png" group-title="NewTV",超级电视剧
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/1.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/中国功夫.png" group-title="NewTV",中国功夫
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/军旅剧场.png" group-title="NewTV",军旅剧场
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227013/1.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
+#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/海外剧场.png" group-title="NewTV",海外剧场
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/精品体育.png" group-title="NewTV",精品体育
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/精品大剧.png" group-title="NewTV",精品大剧
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/军事评论.png" group-title="NewTV",军事评论
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/明星大片.png" group-title="NewTV",明星大片
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227008/1.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/超级综艺.png" group-title="NewTV",超级综艺
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/1.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/金牌综艺.png" group-title="NewTV",金牌综艺
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/1.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/炫舞未来.png" group-title="NewTV",炫舞未来
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/动作电影.png" group-title="NewTV",动作电影
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/古装剧场.png" group-title="NewTV",古装剧场
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/农业致富.png" group-title="NewTV",农业致富
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/爱情喜剧.png" group-title="NewTV",爱情喜剧
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226969/1.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/精品萌宠.png" group-title="NewTV",精品萌宠
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226976/1.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/家庭剧场.png" group-title="NewTV",家庭剧场
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/怡伴健康.png" group-title="NewTV",怡伴健康
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1245
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华经典.png" group-title="LTV",龙华经典
