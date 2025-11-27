@@ -83,7 +83,7 @@ http://iptv.huuc.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Chongqing.png" group-title="卫视",重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi_.png" group-title="卫视",山西卫视
-http://iptv.huuc.edu.cn/hls/sxhd.m3u8
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/sxws.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Gansu.png" group-title="卫视",甘肃卫视
 http://iptv.huuc.edu.cn/hls/gshd.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Qinghai.png" group-title="卫视",青海卫视
