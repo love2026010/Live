@@ -33,19 +33,19 @@ http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live101
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV15.png" group-title="央视",CCTV-15
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1015
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV16.png" group-title="央视",CCTV-16
-http://110.177.144.19:9003/hls/17/index.m3u8
+https://stream1.freetv.fun/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV17.png" group-title="央视",CCTV-17
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1018
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Beijing.png" group-title="卫视",北京卫视
-http://110.177.144.19:9003/hls/20/index.m3u8
+https://stream1.freetv.fun/5e40b2e656954c5b54000099a9711fb4d3490e8ff31c5c857f85df49b4f4a8ba.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hunan.png" group-title="卫视",湖南卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=hunanws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Zhejiang.png" group-title="卫视",浙江卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=zjws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangsu.png" group-title="卫视",江苏卫视
-http://110.177.144.19:9003/hls/35/index.m3u8
+https://stream1.freetv.fun/6348a8da0f130a1ecb4a91f3dc03dead465b0b77c50851dd96dcedc7e86a199d.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongfang.png" group-title="卫视",东方卫视
-https://stream1.freetv.fun/1e24655b1aedf510e8bd85542ff8ddea2bfae69c4e55f3682aecf2a8e94d3013.m3u8
+https://stream1.freetv.fun/eca23fbcbe23cf3b791af20b7e30324478e3086baf66e4fb9302e24b114021ae.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Tianjin.png" group-title="卫视",天津卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=tjws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shandong.png" group-title="卫视",山东卫视
@@ -55,55 +55,55 @@ http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=lnws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jilin.png" group-title="卫视",吉林卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=jlws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
-http://110.177.144.19:9003/hls/31/index.m3u8
+https://stream1.freetv.fun/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangdong.png" group-title="卫视",广东卫视
-https://stream1.freetv.fun/a422735814eb7df091d0cdb1f9c97152ffc83b7575271872ebbdd2e455926999.m3u8
+https://stream1.freetv.fun/ad94d0762c8abb5c589100cc818d8c885386b7e381fe0d68eac7a7f9b1ab2b03.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shenzhen.png" group-title="卫视",深圳卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=szws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Henan.png" group-title="卫视",河南卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=hnws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangxi.png" group-title="卫视",江西卫视
-http://110.177.144.19:9003/hls/36/index.m3u8
+https://stream1.freetv.fun/80bca95b03df18436dd135e8407012a9564496bd5c807844f6d9f5826bd3d57a.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hubei.png" group-title="卫视",湖北卫视
-http://110.177.144.19:9003/hls/32/index.m3u8
+https://stream1.freetv.fun/50bc22715c1891286506f27fd6cd34cb9dd6d1b5e94b25916e8f31e80ba2efd1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Anhui.png" group-title="卫视",安徽卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=ahws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hebei.png" group-title="卫视",河北卫视
-http://110.177.144.19:9003/hls/29/index.m3u8
+https://stream1.freetv.fun/707c4e9c057f6db662e306f7dd6621b587654edac63c6b4d420bf05d63076aee.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongnan.png" group-title="卫视",东南卫视
-http://110.177.144.19:9003/hls/24/index.m3u8
+https://stream1.freetv.fun/aba8603324d1cea99c18553c3a7d4da469e94ce7741fb9db7efb6dfaf05b116e.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangxi.png" group-title="卫视",广西卫视
 http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=gxws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Yunnan.png" group-title="卫视",云南卫视
-https://stream1.freetv.fun/e0d72e40da75f2fab185dbcbe50041d8d0b9a9b14f9cfe43c8c7c7f5d1c4649e.m3u8
+https://stream1.freetv.fun/fefd2762b3e30335504c696c779bd5ca686d439751cbc3515ee094f39825fdc1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guizhou.png" group-title="卫视",贵州卫视
-https://stream1.freetv.fun/bf25a8f9ae358afd6d44b0f506d98a2fedf154391984e75b838f7a4b844571c5.ctv
+https://stream1.freetv.fun/b3e41d7e57e01edee53dd076c2bbb91349a18376124d5911fcb436aeba6fb442.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sichuan.png" group-title="卫视",四川卫视
-https://stream1.freetv.fun/a9bd3a65e221b7781803b40226f113f9ce0fb6aa7ae42ac76115c6142bc18956.ctv
+https://stream1.freetv.fun/b6824b72fbee9e42fac87484354cec553eb769a71a6536f94eacb50743dcfd1b.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Chongqing.png" group-title="卫视",重庆卫视
-http://110.177.144.19:9003/hls/22/index.m3u8
+https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi_.png" group-title="卫视",山西卫视
-https://stream1.freetv.fun/7134b52d41c5da0ebefe4234424eb6e81cb40844c3c32dec3bb8ec46c333c129.m3u8
+https://stream1.freetv.fun/7cef9c48f74c9090f6c7b99aed794ead227df330da2ecb1eefe5ad5642a28fec.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Gansu.png" group-title="卫视",甘肃卫视
-https://stream1.freetv.fun/3a72a76b79b9bd2909a2d03da20d2b8d2b38c9d1bec7944afc2c71210fbfe9e7.m3u8
+https://stream1.freetv.fun/b14558c4b4b9dd59004052dfe14922a1090bfe3f8040fc5d4fef80a993ffd127.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Qinghai.png" group-title="卫视",青海卫视
-https://stream1.freetv.fun/5e0fb352df62f1d311efc04e0cd91221bbe8656df3b90c9c58f9201ca4545baf.m3u8
+https://stream1.freetv.fun/0e4579bf98e3869e73e674507f4257736227ec9c830d0fe0d2fc77008c50f220.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi.png" group-title="卫视",陕西卫视
-https://stream1.freetv.fun/98137d0ff9dd475c57549627bb1e3ad9cb730758a539b72f85966f0735b4f151.ctv
+https://stream1.freetv.fun/cb516ac465877e0fecc26654d22360f652319eb709bdc2d85bc423e124c03255.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Ningxia.png" group-title="卫视",宁夏卫视
-https://stream1.freetv.fun/f6f8e2f44cbdcc23235c57b38355ac272320ee31d15a7fce027b244a112fc180.m3u8
+https://stream1.freetv.fun/9e9a0dd5cc6c79080efcaa9b958ea5c261ee2af517560e301ea605e75e264b70.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hainan.png" group-title="卫视",海南卫视
 https://stream1.freetv.fun/7a78dc6b6e6ef16767b426671bc98edf3a6b82cbba1106f34703764646acfeec.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Haixia.png" group-title="卫视",海峡卫视
 http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sansha.png" group-title="卫视",三沙卫视
-http://175.9.161.73:8989/udp/239.76.246.74:1234
+https://stream1.freetv.fun/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Bingtuan.png" group-title="卫视",兵团卫视
 http://api.kkitv.itv888.cn:8080/hls/nbzfa7gljzp/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
-https://stream1.freetv.fun/279677b3b951e2cdbee503624b1e1425d24666b3a6d1161bf0640918a772bbfd.m3u8
+https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xinjiang.png" group-title="卫视",新疆卫视
-https://stream1.freetv.fun/ba74609f5ff97c464ff3140e1e89d4a2696465ab07503a47a8f5dc1607fba7d6.m3u8
+https://stream1.freetv.fun/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xizang.png" group-title="卫视",西藏卫视
 https://stream1.freetv.fun/f472b7f1026488727d44969d797eb060aa375af68479fe9b1359d81927da37f4.ctv
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jykt.png" group-title="动漫",金鹰卡通
