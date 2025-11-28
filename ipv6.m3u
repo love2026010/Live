@@ -203,22 +203,20 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华卡通.png" group-title="LTV",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京卫视4K.png" group-title="4k",北京卫视4k
-https://migu.188766.xyz/?migutoken=121ac9300c69f70343be33919274980c&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/湖南卫视4K.png" group-title="4k",湖南卫视4k
-https://migu.188766.xyz/?migutoken=dbfd82dfdea0fbc5842a2ffb9cd031ec&id=hn4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/hnws4K.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/浙江卫视4K.png" group-title="4k",浙江卫视4k
-https://migu.188766.xyz/?migutoken=6032eef505d529f387d90c16b7bad02b&id=zj4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/江苏卫视4K.png" group-title="4k",江苏卫视4k
-https://migu.188766.xyz/?migutoken=ba6d07311f798241b03849a419bb6afe&id=js4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
 #EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东方卫视4K.png" group-title="4k",东方卫视4k
-https://migu.188766.xyz/?migutoken=343f89fba37e2c2c17ecab3d9ba7d94d&id=sh4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
 #EXTINF:-1 tvg-name="山东卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/山东卫视4K.png" group-title="4k",山东卫视4k
-https://migu.188766.xyz/?migutoken=7e6d6a46eab85620802914c828376a32&id=sd4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/四川卫视4K.png" group-title="4k",四川卫视4k
-https://migu.188766.xyz/?migutoken=6e4a7c5b5b0ddcef61b919addd2ab433&id=sc4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
 #EXTINF:-1 tvg-name="广东卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/广东卫视4K.png" group-title="4k",广东卫视4k
-https://migu.188766.xyz/?migutoken=2029abc84a633231c396ff9557c19adf&id=gd4k&type=sz
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/深圳卫视4K.png" group-title="4k",深圳卫视4k
-https://migu.188766.xyz/?migutoken=6d81f5d6d2f7644a8bdc32d17644d4a9&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-#EXTINF:-1 tvg-name="河南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/河南卫视4K.png" group-title="4k",河南卫视4k
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1625
+http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
