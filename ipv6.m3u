@@ -121,11 +121,11 @@ https://stream1.freetv.fun/01338fd08b1718f396da23e41d0f2ac8781b971adb8fb69e48b9f
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hmdh.png" group-title="动漫",黑莓动画
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226935/1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC影迷电影.png" group-title="电影",CHC影迷电影
-http://60.16.0.216:5757/hls/39/index.m3u8
+http://113.195.172.192:808/hls/110/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC动作电影.png" group-title="电影",CHC动作电影
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1199
+http://113.195.172.192:808/hls/112/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
-http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1189
+http://113.195.172.192:808/hls/111/index.m3u8
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hmdy.png" group-title="电影",黑莓电影
