@@ -125,7 +125,7 @@ http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
-http://vencentnas.com:7088/rtp/239.3.1.250:8001
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
 http://gotv.k.vu/api.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙祥时代.png" group-title="电影",龙祥时代
