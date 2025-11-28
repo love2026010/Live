@@ -162,3 +162,8 @@ CHC影迷电影,http://60.16.18.243:4949/hls/28/index.m3u8#http://113.195.172.19
 CHC动作电影,http://113.195.172.192:808/hls/112/index.m3u8
 CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8#http://113.195.172.192:808/hls/111/index.m3u8
 
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+
+
