@@ -95,7 +95,7 @@ http://iptv.huuc.edu.cn/hls/nxhd.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hainan.png" group-title="卫视",海南卫视
 http://iptv.huuc.edu.cn/hls/hainanhd.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Haixia.png" group-title="卫视",海峡卫视
-http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Flive1-fuyun.fjtv.net%2Fhaixiapd%2Fhd%2Flive.m3u8%3F_upt%3D9c3889731762313127
+http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sansha.png" group-title="卫视",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Bingtuan.png" group-title="卫视",兵团卫视
