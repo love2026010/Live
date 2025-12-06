@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV1.png" group-title="央视",CCTV-1
+http://www.hkyc.site:1991/rtp/239.253.64.120:5140
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV2.png" group-title="央视",CCTV-2
+http://www.hkyc.site:1991/rtp/239.253.64.195:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV3.png" group-title="央视",CCTV-3
+http://www.hkyc.site:1991/rtp/239.253.64.244:5140
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV4.png" group-title="央视",CCTV-4
+http://www.hkyc.site:1991/rtp/239.253.64.196:5140
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5.png" group-title="央视",CCTV-5
+http://www.hkyc.site:1991/rtp/239.253.64.245:5140
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5+.png" group-title="央视",CCTV-5+
+http://www.hkyc.site:1991/rtp/239.253.64.100:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV6.png" group-title="央视",CCTV-6
+http://www.hkyc.site:1991/rtp/239.253.64.246:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV7.png" group-title="央视",CCTV-7
+http://www.hkyc.site:1991/rtp/239.253.64.54:5140
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV8.png" group-title="央视",CCTV-8
+http://www.hkyc.site:1991/rtp/239.253.64.247:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV9.png" group-title="央视",CCTV-9
+http://www.hkyc.site:1991/rtp/239.253.64.76:5140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV10.png" group-title="央视",CCTV-10
+http://www.hkyc.site:1991/rtp/239.253.64.87:5140
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV11.png" group-title="央视",CCTV-11
+http://www.hkyc.site:1991/rtp/239.253.64.70:5140
+http://ygbh.site/php/bfgd.php?id=130
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV12.png" group-title="央视",CCTV-12
+http://www.hkyc.site:1991/rtp/239.253.64.97:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV13.png" group-title="央视",CCTV-13
+http://www.hkyc.site:1991/rtp/239.253.64.59:5140
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV14.png" group-title="央视",CCTV-14
+http://www.hkyc.site:1991/rtp/239.253.64.115:5140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV15.png" group-title="央视",CCTV-15
+http://www.hkyc.site:1991/rtp/239.253.64.72:5140
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV16.png" group-title="央视",CCTV-16
+http://www.hkyc.site:1991/rtp/239.253.64.251:5140
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV17.png" group-title="央视",CCTV-17
+http://www.hkyc.site:1991/rtp/239.253.64.67:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Beijing.png" group-title="卫视",北京卫视
+http://www.hkyc.site:1991/rtp/239.253.64.204:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hunan.png" group-title="卫视",湖南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.114:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Zhejiang.png" group-title="卫视",浙江卫视
+http://www.hkyc.site:1991/rtp/239.253.64.206:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangsu.png" group-title="卫视",江苏卫视
+http://www.hkyc.site:1991/rtp/239.253.64.202:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongfang.png" group-title="卫视",东方卫视
+http://www.hkyc.site:1991/rtp/239.253.64.201:5140
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Tianjin.png" group-title="卫视",天津卫视
+http://www.hkyc.site:1991/rtp/239.253.64.198:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shandong.png" group-title="卫视",山东卫视
+http://www.hkyc.site:1991/rtp/239.253.64.208:5140
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Liaoning.png" group-title="卫视",辽宁卫视
+http://www.hkyc.site:1991/rtp/239.253.64.150:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jilin.png" group-title="卫视",吉林卫视
+http://www.hkyc.site:1991/rtp/239.253.64.57:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
+http://www.hkyc.site:1991/rtp/239.253.64.205:5140
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangdong.png" group-title="卫视",广东卫视
+http://www.hkyc.site:1991/rtp/239.253.64.200:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+http://www.hkyc.site:1991/rtp/239.253.64.203:5140
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Henan.png" group-title="卫视",河南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.157:5140
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Jiangxi.png" group-title="卫视",江西卫视
+http://www.hkyc.site:1991/rtp/239.253.64.56:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hubei.png" group-title="卫视",湖北卫视
+http://www.hkyc.site:1991/rtp/239.253.64.207:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Anhui.png" group-title="卫视",安徽卫视
+http://www.hkyc.site:1991/rtp/239.253.64.129:5140
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hebei.png" group-title="卫视",河北卫视
+http://www.hkyc.site:1991/rtp/239.253.64.210:5140
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Dongnan.png" group-title="卫视",东南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.66:5140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guangxi.png" group-title="卫视",广西卫视
+http://www.hkyc.site:1991/rtp/239.253.64.45:5140
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Yunnan.png" group-title="卫视",云南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.147:5140
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Guizhou.png" group-title="卫视",贵州卫视
+http://www.hkyc.site:1991/rtp/239.253.64.197:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sichuan.png" group-title="卫视",四川卫视
+http://www.hkyc.site:1991/rtp/239.253.64.36:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Chongqing.png" group-title="卫视",重庆卫视
+http://www.hkyc.site:1991/rtp/239.253.64.55:5140
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi_.png" group-title="卫视",山西卫视
+http://www.hkyc.site:1991/rtp/239.253.64.31:5140
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Gansu.png" group-title="卫视",甘肃卫视
+http://www.hkyc.site:1991/rtp/239.253.64.156:5140
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Qinghai.png" group-title="卫视",青海卫视
+http://www.hkyc.site:1991/rtp/239.253.64.46:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Shanxi.png" group-title="卫视",陕西卫视
+http://www.hkyc.site:1991/rtp/239.253.64.37:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Ningxia.png" group-title="卫视",宁夏卫视
+http://www.hkyc.site:1991/rtp/239.253.64.88:5140
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Hainan.png" group-title="卫视",海南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.253:5140
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Haixia.png" group-title="卫视",海峡卫视
+https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Sansha.png" group-title="卫视",三沙卫视
+http://www.hkyc.site:1991/rtp/239.253.64.112:5140
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Bingtuan.png" group-title="卫视",兵团卫视
+http://www.hkyc.site:1991/rtp/239.253.64.86:5140
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
+http://www.hkyc.site:1991/rtp/239.253.64.144:5140
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xinjiang.png" group-title="卫视",新疆卫视
+http://www.hkyc.site:1991/rtp/239.253.64.85:5140
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Xizang.png" group-title="卫视",西藏卫视
+http://www.hkyc.site:1991/rtp/239.253.64.84:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jykt.png" group-title="动漫",金鹰卡通
+http://www.hkyc.site:1991/udp/239.76.246.107:1234
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/jjkt.png" group-title="动漫",嘉佳卡通
+http://www.hkyc.site:1991/rtp/239.253.64.127:5140
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/hhxd.png" group-title="动漫",哈哈炫动
+http://shyd.695847.xyz/cms001/ch00000090990000001232/index.m3u8?IAS
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/kakushaoer.png" group-title="动漫",卡酷少儿
+http://shyd.695847.xyz/cms001/ch00000090990000001245/index.m3u8?IAS
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/ymkt.png" group-title="动漫",优漫卡通
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/dmxc.png" group-title="动漫",动漫秀场
+http://shyd.695847.xyz/cms001/ch00000090990000001196/index.m3u8?IAS
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC影迷电影.png" group-title="电影",CHC影迷电影
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC动作电影.png" group-title="电影",CHC动作电影
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
+http://vencentnas.com:7088/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
+http://51.89.166.17:3002/index.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙祥时代.png" group-title="电影",龙祥时代
+http://51.89.166.17:3002/index.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东森电影.png" group-title="电影",东森电影
+http://51.89.166.17:3002/index.php?id=ettvmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/纬来电影台.png" group-title="电影",纬来电影
+http://51.89.166.17:3002/index.php?id=videolandmovie
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/好莱坞电影.png" group-title="电影",好莱坞电影
+http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/天映频道.png" group-title="电影",天映频道
+http://51.89.166.17:3002/index.php?id=Celestial
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
+http://152.32.229.52:5050/litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
+http://152.32.229.52:5050/litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华经典.png" group-title="LTV",龙华经典
+http://152.32.229.52:5050/litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华偶像.png" group-title="LTV",龙华偶像
+http://152.32.229.52:5050/litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华洋片.png" group-title="LTV",龙华洋片
+http://152.32.229.52:5050/litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华日韩.png" group-title="LTV",龙华日韩
+http://152.32.229.52:5050/litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华卡通.png" group-title="LTV",龙华卡通
+http://152.32.229.52:5050/litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京卫视4K.png" group-title="4k",北京卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
+#EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/湖南卫视4K.png" group-title="4k",湖南卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
+#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/浙江卫视4K.png" group-title="4k",浙江卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
+#EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/江苏卫视4K.png" group-title="4k",江苏卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
+#EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东方卫视4K.png" group-title="4k",东方卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
+#EXTINF:-1 tvg-name="山东卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/山东卫视4K.png" group-title="4k",山东卫视4k
+https://migu.188766.xyz/?migutoken=7e6d6a46eab85620802914c828376a32&id=sd4k&type=sz
+#EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/四川卫视4K.png" group-title="4k",四川卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
+#EXTINF:-1 tvg-name="广东卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/广东卫视4K.png" group-title="4k",广东卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
+#EXTINF:-1 tvg-name="深圳卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/深圳卫视4K.png" group-title="4k",深圳卫视4k
+http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+#EXTINF:-1 tvg-name="河南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/河南卫视4K.png" group-title="4k",河南卫视4k
+http://115.58.217.186:4000/rtp/225.1.4.254:1300
