@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV1.png" group-title="央视",CCTV-1
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV2.png" group-title="央视",CCTV-2
