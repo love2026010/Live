@@ -40,7 +40,7 @@ CCTV-17,http://www.cdnstv.com:6398/hls/16/index.m3u8
 贵州卫视,http://www.cdnstv.com:6398/hls/78/index.m3u8
 四川卫视,http://www.cdnstv.com:6398/hls/83/index.m3u8
 重庆卫视,http://www.cdnstv.com:6398/hls/87/index.m3u8
-宁夏卫视http://www.cdnstv.com:6398/hls/89/index.m3u8
+宁夏卫视,http://www.cdnstv.com:6398/hls/89/index.m3u8
 甘肃卫视,http://www.cdnstv.com:6398/hls/95/index.m3u8
 青海卫视,http://www.cdnstv.com:6398/hls/96/index.m3u8
 广西卫视,http://www.cdnstv.com:6398/hls/92/index.m3u8
