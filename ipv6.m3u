@@ -189,19 +189,19 @@ http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226330
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/怡伴健康.png" group-title="NewTV",怡伴健康
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhdy/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhxj/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华经典.png" group-title="LTV",龙华经典
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhjd/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华偶像.png" group-title="LTV",龙华偶像
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhox/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华洋片.png" group-title="LTV",龙华洋片
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhyp/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华日韩.png" group-title="LTV",龙华日韩
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhrh/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华卡通.png" group-title="LTV",龙华卡通
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhkt/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京卫视4K.png" group-title="4k",北京卫视4k
 http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/湖南卫视4K.png" group-title="4k",湖南卫视4k
