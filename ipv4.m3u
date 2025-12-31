@@ -127,17 +127,17 @@ http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京淘电影.png" group-title="电影",北京淘电影
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/美亚电影.png" group-title="电影",美亚电影
-http://gotv.k.vu/api.php?id=meiyamovie_twn
+https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙祥时代.png" group-title="电影",龙祥时代
-http://gotv.k.vu/api.php?id=lungxiangtime_twn
+https://live.catvod.com/live.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/东森电影.png" group-title="电影",东森电影
-http://gotv.k.vu/api.php?id=ettvmovie
+https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/纬来电影台.png" group-title="电影",纬来电影
-http://gotv.k.vu/api.php?id=videolandmovie
+https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/好莱坞电影.png" group-title="电影",好莱坞电影
-http://gotv.k.vu/api.php?id=hollywoodmovies_twn
+https://live.catvod.com/live.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/天映频道.png" group-title="电影",天映频道
-http://gotv.k.vu/api.php?id=Celestial
+https://live.catvod.com/live.php?id=Celestial
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
