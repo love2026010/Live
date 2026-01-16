@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV1.png" group-title="央视",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-1.png" group-title="央视",CCTV-1
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV2.png" group-title="央视",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-2.png" group-title="央视",CCTV-2
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226893/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV3.png" group-title="央视",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-3.png" group-title="央视",CCTV-3
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV4.png" group-title="央视",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-4.png" group-title="央视",CCTV-4
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5.png" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-5.png" group-title="央视",CCTV-5
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV5+.png" group-title="央视",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-5+.png" group-title="央视",CCTV-5+
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV6.png" group-title="央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-6.png" group-title="央视",CCTV-6
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV7.png" group-title="央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-7.png" group-title="央视",CCTV-7
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV8.png" group-title="央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-8.png" group-title="央视",CCTV-8
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV9.png" group-title="央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-9.png" group-title="央视",CCTV-9
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV10.png" group-title="央视",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-10.png" group-title="央视",CCTV-10
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226937/1.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV11.png" group-title="央视",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-11.png" group-title="央视",CCTV-11
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV12.png" group-title="央视",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-12.png" group-title="央视",CCTV-12
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV13.png" group-title="央视",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-13.png" group-title="央视",CCTV-13
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV14.png" group-title="央视",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-14.png" group-title="央视",CCTV-14
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV15.png" group-title="央视",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-15.png" group-title="央视",CCTV-15
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV16.png" group-title="央视",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-16.png" group-title="央视",CCTV-16
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221227002/1.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV17.png" group-title="央视",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/CCTV-17.png" group-title="央视",CCTV-17
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/Beijing.png" group-title="卫视",北京卫视
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
@@ -189,19 +189,19 @@ http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226330
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/怡伴健康.png" group-title="NewTV",怡伴健康
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华电影.png" group-title="LTV",龙华电影
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhdy/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华戏剧.png" group-title="LTV",龙华戏剧
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhxj/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华经典.png" group-title="LTV",龙华经典
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhjd/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华偶像.png" group-title="LTV",龙华偶像
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhox/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华洋片.png" group-title="LTV",龙华洋片
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhyp/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华日韩.png" group-title="LTV",龙华日韩
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhrh/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/龙华卡通.png" group-title="LTV",龙华卡通
-https://media.heshouyi.com/api/iptv/proxy?url=http://cdn6.veryfast.filegear-sg.me/live/lhkt/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
+https://media.heshouyi.com/api/iptv/proxy?url=http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8&site_id=55b0b3c1-30c7-49bf-bcc8-ceafd2937459
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/北京卫视4K.png" group-title="4k",北京卫视4k
 http://115.223.9.56:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://gh-proxy.com/https://github.com/love2026010/logo/blob/main/img/湖南卫视4K.png" group-title="4k",湖南卫视4k
