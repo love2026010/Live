@@ -1,4 +1,4 @@
-央视频道,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
+央视,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 CCTV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
@@ -46,7 +46,7 @@ CCTV-风云剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pi
 CCTV-第一剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV-怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
 
-卫视频道,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
+卫视,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 北京卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
